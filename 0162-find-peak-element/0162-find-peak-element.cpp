@@ -3,7 +3,7 @@ public:
     int findPeakElement(vector<int>& arr) {
         int n=arr.size();
         // arr[-1]=INT_MIN;
-        // //arr[n+1]=INT_MIN;
+        // arr[n+1]=INT_MIN;
         int st=0,end=n-1;
         if(n==1)return 0;
         if(arr[st]>arr[st+1])return st;
