@@ -19,7 +19,7 @@ public:
         int n=arr.size();
         int st=*min_element(arr.begin(),arr.end());
         int end=*max_element(arr.begin(),arr.end());
-         if((double)m*k > (double)n)return -1;
+         if((double)m*k > n)return -1;
         while(st<=end){
             int mid=(st+end)/2;
             long long totalBkt=returnBkt(arr,n,k,mid);
