@@ -16,7 +16,7 @@ public:
         return totalBkt;
     }
     int minDays(vector<int>& arr, int m, int k) {
-        long long n=arr.size();
+        int n=arr.size();
         int st=*min_element(arr.begin(),arr.end());
         int end=*max_element(arr.begin(),arr.end());
          if((double)m*k >(double)n)return -1;
