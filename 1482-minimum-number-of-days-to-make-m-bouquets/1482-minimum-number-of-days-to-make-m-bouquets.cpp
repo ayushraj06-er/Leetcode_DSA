@@ -21,7 +21,7 @@ public:
         int end=*max_element(arr.begin(),arr.end());
          if((double)m*k >(double)n)return -1;
         while(st<=end){
-            int mid = st + (end-st)/2;
+            int mid=(st+end)/2;
             long long totalBkt=returnBkt(arr,n,k,mid);
             if(totalBkt>=m){
                 end=mid-1;
