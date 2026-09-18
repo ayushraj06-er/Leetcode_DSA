@@ -7,7 +7,7 @@ int sum(vector<int>& arr,int n){
         }
         return sum;
 }
-long long returnDay(vector<int>& arr,int n,int mid){
+int  returnDay(vector<int>& arr,int n,int mid){
         int cnt=0;
         int day=1;
         for(int i=0;i<n;i++){
@@ -26,7 +26,7 @@ long long returnDay(vector<int>& arr,int n,int mid){
         int st=*max_element(arr.begin(),arr.end()),end=sum(arr,n);
         while(st<=end){
             int mid=(st+end)/2;
-            long long d=returnDay(arr,n,mid);
+            int d=returnDay(arr,n,mid);
             if(d<=days){
                 end=mid-1;
             }else{
