@@ -7,7 +7,7 @@ int sum(vector<int>& arr,int n){
         }
         return sum;
 }
-int  returnDay(vector<int>& arr,int n,int mid){
+  int returnDay(vector<int>& arr,int n,int mid){
         int cnt=0;
         int day=1;
         for(int i=0;i<n;i++){
