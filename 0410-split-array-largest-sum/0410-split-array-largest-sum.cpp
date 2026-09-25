@@ -8,20 +8,21 @@ public:
         return sum;
     }
     int cntSubArr(vector<int>& arr ,int n,int mid){
-        int cnt=0;
-        int sum=0;
-        for(int i=0;i<n;i++){
-            if(sum+arr[i]<=mid){
-                sum+=arr[i];
-            }else{
-                cnt++;
-                sum=arr[i];
-            }
-        }
-        if(sum<=mid){
+       int cnt=0;
+       int sum=0;
+       for(int i=0;i<n;i++){
+        if(sum+arr[i]<=mid){
+            sum+=arr[i];
+
+        }else{
             cnt++;
+            sum=arr[i];
         }
-        return cnt;
+       }
+       if(sum<=mid){
+        cnt++;
+       }
+       return cnt;
     }
     int splitArray(vector<int>& arr, int k) {
         int n=arr.size();
@@ -37,6 +38,7 @@ public:
             }
 
         }
+
         return st;
 
     }
