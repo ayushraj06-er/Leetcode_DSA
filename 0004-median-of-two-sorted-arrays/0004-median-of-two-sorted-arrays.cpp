@@ -1,39 +1,60 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& arr1, vector<int>& arr2) {
-        int n1=arr1.size();
-        int n2=arr2.size();
-        vector<float>ans;
+    double findMedianSortedArrays(vector<int>& a, vector<int>& b) {
+        int n1=a.size();
+        int n2=b.size();
+        int n=n1+n2;
+        int idx1=n/2;
+        int idx2=idx1-1;
+        int cnt=0;
+        float e1=-1,e2=-1;
         int i=0,j=0;
         while(i<n1 && j<n2){
-            if(arr1[i]<arr2[j]){
-                ans.push_back(arr1[i]);
+            if(a[i]<b[j]){
+                if(cnt == idx1){
+                e1=a[i];
+                }
+                if(cnt == idx2){
+                e2=a[i];
+                }
+                cnt++;
                 i++;
             }else{
-                ans.push_back(arr2[j]);
+                 if(cnt == idx1){
+                e1=b[j];
+                }
+                if(cnt == idx2){
+                e2=b[j];
+                }
+                cnt++;
                 j++;
             }
         }
-        if(i!=n1){
-            while(i<n1){
-                ans.push_back(arr1[i]);
+        while(i<n1){
+            if(cnt == idx1){
+                e1=a[i];
+                }
+                if(cnt == idx2){
+                e2=a[i];
+                }
+                cnt++;
                 i++;
-            }
         }
-        if(j!=n2){
-            while(j<n2){
-                ans.push_back(arr2[j]);
-                j++;
-            }
-        }
-        int n=ans.size();
-        float st=0,end=n-1;
-        float mid=(st+end)/2;
-        if(n%2 == 0){
-            return (ans[mid]+ans[mid+1])/2;
-        }else{
-            return ans[mid];
+        while(j<n2){
+          if(cnt == idx1){
+                e1=b[j];
+                }
+                if(cnt == idx2){
+                e2=b[j];
+                }
+                cnt++;
+                j++;   
         }
 
+        if(n % 2 == 0){
+            return (e1 + e2)/2;
+        }else{
+            return  e1;
+        }
     }
 };
