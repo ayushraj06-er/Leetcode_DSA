@@ -9,7 +9,7 @@ public:
         if(arr[st]>arr[st+1])return st;
         if(arr[end-1]<arr[end])return end;
         while(st<=end){
-             if(arr[end-1]<arr[end] && arr[end]>arr[end+1])return end;
+             if(arr[end-1]<arr[end])return end;
             int mid=(st+end)/2;
             if(arr[mid-1]<arr[mid] && arr[mid]>arr[mid+1]) return mid;
             else if(arr[mid-1]<arr[mid] && arr[mid]<arr[mid+1]){
