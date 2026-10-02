@@ -7,7 +7,7 @@ public:
         int st=0,end=n-1;
         if(n==1)return 0;
         if(arr[st]>arr[st+1])return st;
-        if(arr[end-1]<arr[end])return end;
+        //if(arr[end-1]<arr[end])return end;
         while(st<=end){
              if(arr[end-1]<arr[end])return end;
             int mid=(st+end)/2;
