@@ -40,6 +40,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -68,4 +69,16 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
