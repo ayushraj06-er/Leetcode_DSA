@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
@@ -108,5 +109,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
