@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0022-generate-parentheses) |
+| [0344-reverse-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
