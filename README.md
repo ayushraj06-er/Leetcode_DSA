@@ -19,6 +19,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
@@ -47,10 +49,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,4 +115,12 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0344-reverse-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
