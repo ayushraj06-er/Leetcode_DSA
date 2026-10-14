@@ -82,6 +82,7 @@
 | [0022-generate-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
@@ -116,9 +117,11 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
