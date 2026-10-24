@@ -87,6 +87,7 @@
 | [0344-reverse-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
@@ -97,6 +98,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
