@@ -71,6 +71,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0371-sum-of-two-integers) |
@@ -81,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0242-valid-anagram) |
@@ -148,6 +150,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
