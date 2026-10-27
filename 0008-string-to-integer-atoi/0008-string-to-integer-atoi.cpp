@@ -29,7 +29,7 @@ public:
             if(sign==1 && num>INT_MAX){
                 return INT_MAX;
             }
-            if(sign==-1 && num > 2147483647){
+            if(sign==-1 && num >2147483648){
                 return INT_MIN;
             }
             i++;
