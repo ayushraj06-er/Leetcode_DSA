@@ -75,6 +75,7 @@
 | [0050-powx-n](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/ayushraj06-er/Leetcode_DSA/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
